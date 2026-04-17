@@ -225,8 +225,3 @@ The IR sensor returns an analog value from `0` to `4095` (12-bit ADC on ESP32):
 
 
 
-
-## 🙋 Author
-
-Built with ❤️ using ESP32 and Arduino.  
-Feel free to fork, modify, and build on this project!
