@@ -223,23 +223,8 @@ The IR sensor returns an analog value from `0` to `4095` (12-bit ADC on ESP32):
 
 ---
 
-## 🔧 Possible Improvements
 
-- [ ] Add threshold calibration command over Bluetooth (e.g., `THRESH:1500`)
-- [ ] Only send IR status when state **changes** (not every 500ms) to reduce Bluetooth traffic
-- [ ] Add a second LED as a dedicated IR indicator
-- [ ] Log IR detection events with timestamps via NTP
-- [ ] Add BLE (Bluetooth Low Energy) support for phone app compatibility
-- [ ] Build a custom Android/iOS app with toggle buttons and live IR status
-- [ ] Add buzzer that beeps on object detection
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙋 Author
 
