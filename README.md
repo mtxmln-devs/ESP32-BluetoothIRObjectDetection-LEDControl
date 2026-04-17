@@ -10,7 +10,6 @@ Remotely control an LED via Bluetooth **and** detect nearby objects using an IR 
 [![Protocol](https://img.shields.io/badge/Protocol-Bluetooth%20Classic-0082FC?style=flat&logo=bluetooth)](https://www.bluetooth.com/)
 [![Sensor](https://img.shields.io/badge/Sensor-IR%20Analog-yellow?style=flat)](#)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](#license)
 
 ---
 
